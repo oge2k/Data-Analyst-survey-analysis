@@ -27,7 +27,8 @@ blank spaces in job category and in company level was replaced by not stated
 
 from my analysis and visualization we can see that most responses say they work for medium and small scale companies 
 ---
-![here]("pictures\PBIDesktop_z7Fwsorokm.png")
+![PBIDesktop_z7Fwsorokm](https://github.com/user-attachments/assets/c3d02e7f-02dd-4523-804f-07a4d37ef061)
+
 ---
 
 ## RECOMMENDATIONS AND CONCLUSION
